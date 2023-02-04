@@ -2,7 +2,7 @@ package paginas;
 
 public class Login {
 	
-	// João Almeida
+	// João Teste
 	
 	// Página de Login (pode fazer redirect para Register ou para Home após login)
 	public static void Login()
